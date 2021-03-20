@@ -11,7 +11,7 @@
 сделайте [pull request](https://github.com/dan-sazonov/informatics-solutions/pulls).
 
 ## Автор
-Автор репозитория и части решений - @dan-sazonov. <br>
+Автор репозитория и части решений - [@dan-sazonov](https://github.com/dan-sazonov). <br>
 **Связаться со мной:**<br>
 [Telegram](https://t.me/dan_sazonov) <br>
 [Email](mailto:p-294803@yandex.ru) <br>
@@ -19,3 +19,12 @@
 ## Лицензия
 Весь код распространяется по лицензии [MIT](https://github.com/dan-sazonov/informatics-solutions/blob/main/LICENSE).
 Вы можете использовать код в любых целях, указав ссылку на автора.
+
+## Решения
+`Задача` - ссылка на условие на Informatics;<br>
+`ЯП` - язык программирования, на котором написано решение;<br>
+`Оценка` - сколько баллов набрало решение.<br>
+<br>
+| Задача | ЯП | Оценка |
+|:------:|:--:|:------:|
+| 0 | 0 | 0 |
