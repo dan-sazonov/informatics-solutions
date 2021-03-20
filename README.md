@@ -9,3 +9,13 @@
 Если вы обнаружили ошибку в коде, или знаете более оптимальное решение, откройте 
 [issue](https://github.com/dan-sazonov/informatics-solutions/issues). Если вы хотите предложить свое решение, 
 сделайте [pull request](https://github.com/dan-sazonov/informatics-solutions/pulls).
+
+## Автор
+Автор репозитория и части решений - @dan-sazonov. <br>
+**Связаться со мной:**<br>
+[Telegram](https://t.me/dan_sazonov) <br>
+[Email](mailto:p-294803@yandex.ru) <br>
+
+## Лицензия
+Весь код распространяется по лицензии [MIT](https://github.com/dan-sazonov/informatics-solutions/blob/main/LICENSE).
+Вы можете использовать код в любых целях, указав ссылку на автора.
