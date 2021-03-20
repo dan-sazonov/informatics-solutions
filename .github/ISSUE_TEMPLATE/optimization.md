@@ -2,7 +2,7 @@
 name: Optimization
 about: Расскажите, как можно улучшить существующее решение
 title: ''
-labels: ''
+labels: optimization
 assignees: ''
 
 ---
