@@ -10,6 +10,9 @@
 [issue](https://github.com/dan-sazonov/informatics-solutions/issues). Если вы хотите предложить свое решение,
 сделайте [pull request](https://github.com/dan-sazonov/informatics-solutions/pulls).<br>
 Пожалуйста, пишите комментарии к коммитам и названия пулл-реквестов и ишью на английском языке.
+### todo
+- [ ] добавить названия задач в таблицу
+- [ ] исправить неправильные решения
 
 ## Автор
 Автор репозитория и части решений - [@dan-sazonov](https://github.com/dan-sazonov). <br>
