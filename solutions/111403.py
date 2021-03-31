@@ -1,4 +1,3 @@
-# fixme частичное решение
 c = int(input())
 left = 0
 right = c

@@ -1,4 +1,3 @@
-# fixme частичное решение
 import bisect
 
 n, k = map(int, input().split())

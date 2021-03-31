@@ -1,4 +1,3 @@
-# fixme частичное решение
 l, n, m = map(int, input().split())
 socks = [list(map(int, input().split())) for _ in range(n)]
 cnt = [0] * (l + 1)
