@@ -1,4 +1,3 @@
-# fixme частичное решение
 n = int(input())
 a = list(map(int, input().split()))
 

@@ -1,4 +1,3 @@
-# fixme частичное решение
 a = float(input())
 right = n = int(input())
 left = -1

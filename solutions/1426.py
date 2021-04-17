@@ -1,4 +1,3 @@
-# fixme частичное решение
 n, m = map(int, input().split())
 boat = []
 for _ in range(n):

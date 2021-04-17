@@ -1,4 +1,3 @@
-# fixme частичное решение
 n, m = map(int, input().split())
 matrix = [list(map(int, input().split())) for _ in range(n)]
 matrix_t = list(zip(*matrix))

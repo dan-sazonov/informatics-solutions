@@ -1,4 +1,3 @@
-# fixme частичное решение
 a, b, c = map(int, input().split())
 
 

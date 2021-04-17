@@ -1,4 +1,3 @@
-# fixme частичное решение
 from math import gcd
 
 n = int(input())

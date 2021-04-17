@@ -1,4 +1,3 @@
-# fixme частичное решение
 from collections import Counter, deque
 
 n = int(input())

@@ -1,4 +1,3 @@
-# fixme частичное решение
 from math import floor, gcd
 
 n = int(input())

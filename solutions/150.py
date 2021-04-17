@@ -1,5 +1,3 @@
-# fixme частичное решение
-
 from math import ceil
 
 n = int(input())
