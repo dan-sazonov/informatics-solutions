@@ -21,8 +21,8 @@
 [:e-mail: Email](mailto:p-294803@yandex.ru) <br>
 
 ## Лицензия
-Весь код распространяется по лицензии [MIT](https://github.com/dan-sazonov/informatics-solutions/blob/main/LICENSE).
-Вы можете использовать код в любых целях, указав ссылку на автора.
+Весь код распространяется по лицензии [GPL-3.0 License](https://github.com/dan-sazonov/informatics-solutions/blob/main/LICENSE).
+Подробнее см. в файле.
 
 ## Решения
 `Задача` - ссылка на условие на Informatics;<br>
