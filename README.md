@@ -82,7 +82,7 @@
 | [1418](https://informatics.msk.ru/mod/statements/view.php?chapterid=1418#1) | Python 3.9 | [100](https://github.com/dan-sazonov/informatics-solutions/blob/main/solutions/1418.py) |
 | [1425](https://informatics.msk.ru/mod/statements/view.php?chapterid=1425#1) | Python 3.9 | [100](https://github.com/dan-sazonov/informatics-solutions/blob/main/solutions/1425.py) |
 | [1426](https://informatics.msk.ru/mod/statements/view.php?chapterid=1426#1) | Python 3.9 | [35](https://github.com/dan-sazonov/informatics-solutions/blob/main/solutions/1426.py) |
-| [1427](https://informatics.msk.ru/mod/statements/view.php?chapterid=1427#1) | Python 3.9 | [20](https://github.com/dan-sazonov/informatics-solutions/blob/main/solutions/1427.py) |
+| [1427](https://informatics.msk.ru/mod/statements/view.php?chapterid=1427#1) | Python 3.9 | [100 (от t.me/mollior)](https://github.com/dan-sazonov/informatics-solutions/blob/main/solutions/1427.py) |
 | [1429](https://informatics.msk.ru/mod/statements/view.php?chapterid=1429#1) | Python 3.9 | [16](https://github.com/dan-sazonov/informatics-solutions/blob/main/solutions/1429.py) |
 | [1436](https://informatics.msk.ru/mod/statements/view.php?chapterid=1436#1) | Python 3.9 | [1](https://github.com/dan-sazonov/informatics-solutions/blob/main/solutions/1436.py) |
 | [1438](https://informatics.msk.ru/mod/statements/view.php?chapterid=1438#1) | Python 3.9 | [100](https://github.com/dan-sazonov/informatics-solutions/blob/main/solutions/1438.py) |
