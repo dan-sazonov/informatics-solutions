@@ -1,4 +1,4 @@
-# автор - t.me/mollior
+# Р°РІС‚РѕСЂ - t.me/mollior
 
 n, m = map(int, input().split())
 maxs = []
